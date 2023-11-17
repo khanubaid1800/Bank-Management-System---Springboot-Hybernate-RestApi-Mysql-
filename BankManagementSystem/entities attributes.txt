@@ -1,0 +1,23 @@
+*Accounts*
+
+{
+    "accno":1,
+    "accholdername":"mehul",
+    "acctype":"saviings",
+    "bankname":"RBI",
+    "accbalance":159753
+
+}
+
+*Cutomers*
+
+{
+    "id":2,
+    "name":"nivrutti",
+    "age":22,
+    "address":"kotak",
+    "contact":575,
+    "email":"bank2@gmail.com"
+
+}
+
